@@ -165,4 +165,4 @@ These items are designed as next-step milestones for production scaling:
 3.  **UI/UX Interface**: Wrap the chatbot in a lightweight web dashboard using a framework like Flask, FastAPI, or Streamlit.
 
 ---
-*Developed with by the DecodeLabs Internship Team.*
+*Developed by Kushagra Singh (DecodeLabs Intern).
